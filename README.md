@@ -1,4 +1,4 @@
-# Vue3, Vuex, Vue-Router, TailwindCSS, Typescript
+# Vue3, Vuex, Vue-Router, TailwindCSS, Typescript, SPA
 
 
 

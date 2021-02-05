@@ -1,10 +1,3 @@
 <template>
-  <h1>About</h1>
+  <h1>Abou 123</h1>
 </template>
-
-<script>
-export default {};
-</script>
-
-<style>
-</style>

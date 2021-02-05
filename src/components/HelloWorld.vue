@@ -18,7 +18,7 @@ export default defineComponent({
   },
   setup: () => {
     const count = ref(0);
-    const base_url = process.env.BASE_URL;
+    const base_url = process.env;
     return {
       count,
       base_url,

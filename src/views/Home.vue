@@ -1,9 +1,14 @@
 <template>
-  <h1>Home</h1>
+  <HelloWorld msg="Hello world" />
 </template>
 
 <script>
-export default {};
+import HelloWorld from "@components/HelloWorld.vue";
+export default {
+  components: {
+    HelloWorld,
+  },
+};
 </script>
 
 <style>

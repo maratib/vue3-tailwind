@@ -31,18 +31,6 @@
       "@/*": [
         "src/*"
       ],
-      "@views/*": [
-        "src/views/*"
-      ],
-      "@components/*": [
-        "src/components/*"
-      ],
-      "@store": [
-        "src/store/index"
-      ],
-      "@router": [
-        "src/router/index"
-      ],
     },
   },
   "include": [
